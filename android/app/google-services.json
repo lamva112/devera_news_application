@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751486513331",
+    "project_id": "devera-news-221fa",
+    "storage_bucket": "devera-news-221fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751486513331:android:9ecf3460e6298b4a1340c6",
+        "android_client_info": {
+          "package_name": "com.example.devera_news_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751486513331-98vtc9uqcf1iu4mlc6ccsh7jd7rmo1di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FVwSJa1PGkyURxKuHoI2Xu1-E-Z1Bks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751486513331-98vtc9uqcf1iu4mlc6ccsh7jd7rmo1di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
